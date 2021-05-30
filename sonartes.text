@@ -1,1 +1,5 @@
-f83159728aa893f713b61018e632c9834c107e54
+sonar-scanner \
+  -Dsonar.projectKey=laravel-8 \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.login=f83159728aa893f713b61018e632c9834c107e54

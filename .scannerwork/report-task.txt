@@ -1,6 +1,6 @@
-projectKey=api-ticmi
+projectKey=laravel-8
 serverUrl=http://localhost:9000
 serverVersion=8.8.0.42792
-dashboardUrl=http://localhost:9000/dashboard?id=api-ticmi
-ceTaskId=AXlE3ZoMMIme5_Vi1P4i
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AXlE3ZoMMIme5_Vi1P4i
+dashboardUrl=http://localhost:9000/dashboard?id=laravel-8
+ceTaskId=AXlE5BCtMIme5_Vi1P4w
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXlE5BCtMIme5_Vi1P4w
